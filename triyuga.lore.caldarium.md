@@ -1,8 +1,8 @@
-## Parameters
-# ingredients
+### Parameters
+#### ingredients
 The ingredients to put in the caldarium
 
-## Examples
+### Examples
 ```
 var magik = magikcraft.io;
 
