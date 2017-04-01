@@ -1,5 +1,7 @@
+## /magik.caldarium
+
 ### Parameters
-#### ingredients
+##### ingredients
 The ingredients to put in the caldarium
 
 ### Examples
