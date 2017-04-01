@@ -5,6 +5,7 @@ The ingredients to put in the caldarium
 ## Examples
 ```
 var magik = magikcraft.io;
+
 function cauldron(){
     var ingredients = [ ];
     ingredients.push("ingredient1");
