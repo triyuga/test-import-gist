@@ -1,2 +1,0 @@
-# Triyuga's Spellbook
-
